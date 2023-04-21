@@ -1,2 +1,2 @@
-# marathon-urok-1-To-do-
+# marathon-urok-2-To-do-
 To-do-list на JavaScript
